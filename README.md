@@ -17,4 +17,5 @@ The system follows a Client-Server Model, where:
 The Server: Listens for incoming client connections and manages message broadcasting.
 The Clients: Connect to the server, send messages, and receive real-time updates from other clients.
 
-#OUTPUT:
+#OUTPUT:![Image](https://github.com/user-attachments/assets/8ed6e253-3251-4ba7-af66-9b98b8aa7ea7)
+![Image](https://github.com/user-attachments/assets/3feaf36f-34bc-4349-9051-18da97277c15)
